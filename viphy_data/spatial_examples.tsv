@@ -1,0 +1,101 @@
+scene	o1	o2	annot
+living_room	table lamp column	floor lamp	=,<
+living_room	coffee table	sofa	=,<
+kitchen	work surface	pendant lamp canopy	<
+living_room	blind	curtain	=
+kitchen	kettle	recessed light	<
+bathroom	cabinet drawer	sink faucet	<
+kitchen	recessed light	oven door	>
+bathroom	blind	cabinet	>,=
+bathroom	countertop	mirror	<
+kitchen	refrigerator	cabinet top	<
+bathroom	plant	door knob	=,<
+living_room	table lamp shade	fireplace	>,=
+kitchen	recessed light	pendant lamp	>,=
+bedroom	table lamp	wardrobe drawer	=
+bedroom	night table	bed headboard	<
+living_room	armchair seat base	recessed light	<
+living_room	sofa	window pane	<
+living_room	armchair arm	box	>,<
+bedroom	night table	recessed light	<
+kitchen	canister	cabinet	>,<
+kitchen	cabinet door	chair	>,=
+living_room	armchair arm	armchair back pillow	=
+living_room	floor lamp	sofa seat cushion	>
+living_room	figurine	carpet	>
+living_room	sofa seat cushion	window  sash	<
+kitchen	ceiling	door hinge	>
+bedroom	wardrobe	night table	>,=
+kitchen	stove burner	sink faucet	<
+kitchen	pendant lamp shade	outlet	>
+living_room	picture	floor lamp arm	>,=
+bedroom	drawer handle	night table	=
+bedroom	mirror	pillow	>
+kitchen	window	plate	>
+kitchen	microwave	stove burner	>
+bathroom	sink faucet	shower screen	=
+bathroom	sconce shade	chandelier shade	<
+bedroom	pillow	wardrobe	=
+living_room	sash rail	sofa seat cushion	>
+living_room	cushion	chandelier shade	<
+bathroom	drawer handle	sconce	<
+bedroom	chest of drawers	table lamp	<
+living_room	curtain	carpet	>
+bedroom	night table drawer	table lamp	<
+kitchen	dishwasher	door handle	<
+bedroom	night table	blind	<
+kitchen	door	cabinet top	=
+kitchen	floor	kettle	<
+kitchen	door handle	oven	>
+living_room	sofa skirt	sofa arm	<
+living_room	plant pot	curtain	=
+kitchen	pendant lamp	sash pane	>
+kitchen	range	door handle	<
+living_room	coffee table apron	recessed light	<
+kitchen	extractor hood	plant	>
+kitchen	place mat	recessed light	<
+living_room	remote control	cushion	<
+kitchen	door knob	stool leg	>
+kitchen	cabinets door	bowl	>,<
+bedroom	bed headboard	dresser drawer	>
+living_room	sofa back pillow	armchair arm	=
+kitchen	oven	stove	=
+bathroom	door knob	cabinet door	>,<
+living_room	curtain	armchair back	>
+living_room	plant	coffee table leg	>
+kitchen	recessed light	casserole	>
+living_room	armchair arm	recessed light	<
+bedroom	dresser drawer	box	<
+bathroom	door handle	outlet	>
+living_room	coffee table leg	sofa seat base	=,<
+living_room	sofa back pillow	side table	>,=
+bathroom	cabinet	sink faucet	<
+bedroom	pillow	door	=,<
+kitchen	cushion	floor lamp column	<
+kitchen	food	door knob	>,<
+bathroom	rug	floor	=
+kitchen	television	recessed light	<
+kitchen	range oven	chair	=,<
+living_room	candle holder	books	>,<
+living_room	sofa leg	sofa back	<
+kitchen	window pane	window rail	>,<
+living_room	sofa seat base	window	<
+kitchen	range oven	recessed light	<
+living_room	curtain rod	window	>
+kitchen	window	oven door	>
+living_room	window pane	pendant lamp shade	<
+bathroom	mirror	toilet lid	>
+bathroom	floor	sconce	<
+bedroom	night table	door handle	<
+bathroom	bathtub	cabinet	=,<
+living_room	books	shelves door	>,=
+kitchen	kitchen island	door handle	=,<
+kitchen	cabinet door	pot handle	>
+kitchen	cabinet top	cabinet door	>
+kitchen	plate	cabinet door	>,<
+bedroom	table lamp shade	wardrobe door	=,<
+kitchen	sash stile	chair	>
+kitchen	door handle	telephone	>,<
+living_room	fireplace	window pane	=,<
+living_room	sofa arm	vase	>,<
+living_room	armchair arm	armchair seat	>
