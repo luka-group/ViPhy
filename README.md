@@ -7,5 +7,5 @@ Link to paper: TBA
 
 Arxiv version: https://arxiv.org/abs/2209.07000
 
-![Alt text](intro.jpg?raw=true "Title")
+![Alt text](intro.png?raw=true "Title")
 
